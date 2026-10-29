@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Aethereal Cardinal</string>
+    <string name="accessibility_service_description">Aethereal Cardinal autonomous perception and interaction service for on-device screen inspection and assistance.</string>
+</resources>
